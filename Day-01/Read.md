@@ -70,7 +70,7 @@ Class B – 128.0.0.0 TO 191.255.255.255
 Class C – 192.0.0.0 TO 223.255.255.255 
 Here we can notice that 127.0.0.1 is left completely which is called as loopback address which pings its own devices only. 
 Public IP v/s Private IP:
-Using these IP’s can cause shortage in IP’s so RFC1918(org) came out with an idea of Public IP and Private IP
+Using these IP’s can cause shortage in IP’s so RFC1918(org)(https://datatracker.ietf.org/doc/html/rfc1918) came out with an idea of Public IP and Private IP
 Private IP’s ranges from: should be connected internally 
      10.0.0.0        -   10.255.255.255  (10/8 prefix)
      172.16.0.0      -   172.31.255.255  (172.16/12 prefix)
