@@ -53,5 +53,7 @@ Subnets are a logical subdivision of an IP network, or a network within a networ
 
 ---
 
+![IP Diagram](https://github.com/AbhishekPattnayak23/Aws-Tasks/blob/main/Assets/vpc.png)
+
 Happy Subnetting!
 
