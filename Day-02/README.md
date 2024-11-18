@@ -137,7 +137,7 @@ You can use VPC Peering to allow the web application in VPC A to securely commun
 
 ## AWS VPC Setup Guide
 
-![AWS VPC](https://github.com/saikiranpi/mastering-aws/assets/109568252/51f3bbf7-0706-450b-abf5-8c4bd697911b)
+![AWS VPC](https://github.com/AbhishekPattnayak23/Aws-Tasks/blob/main/Assets/aws-arch-1.png)
 
 ### What is VPC?
 A Virtual Private Cloud (VPC) is a virtual network environment within AWS that allows you to create a logically isolated section of the AWS Cloud where you can launch AWS resources in a virtual network that you define.
@@ -206,7 +206,7 @@ To configure Internet Gateway and Route Tables:
 
 On a high level, each company's data and applications are kept separate and secure within their own VPC. Subnets help organize different stages of the software development lifecycle.
 
-![VPC Setup Diagram](vpc_setup.png)
+![VPC Setup Diagram]([vpc_setup.png](https://github.com/AbhishekPattnayak23/Aws-Tasks/blob/main/Assets/aws-arch-1.png))
 
 Now you have configured VPC and Subnets successfully!
 
