@@ -1,6 +1,9 @@
 # VPC Flow Logs Guide
 
 Welcome to the VPC Flow Logs Guide! This guide will help you understand the importance of VPC flow logs and how to set them up in AWS.
+VPC (Virtual Private Cloud) Flow Logs provide detailed information about the network traffic in your AWS VPC. They capture information about the IP traffic going to and from network interfaces within your VPC. This data helps in troubleshooting, monitoring, and security analysis.
+
+
 
 ## Understanding VPC Flow Logs
 
