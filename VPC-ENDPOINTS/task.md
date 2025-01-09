@@ -1,5 +1,6 @@
 # TASK FOR VPC ENDPOINT
-
+### Visual Representation
+![View the Image Here](https://github.com/AbhishekPattnayak23/Aws-Tasks/blob/main/Assets/vpc_endpoint.png)
 ### Problem Statement
 Suppose there is an availability zone **US-EAST-1A**, which contains:
 - A **private subnet** and a **public subnet**.
@@ -44,8 +45,7 @@ This task will help you understand the necessity of VPC endpoints in ensuring se
 ### Why VPC Endpoints Matter
 This exercise demonstrates the limitations of using public internet and NAT Gateways for private subnets. It shows how **VPC Endpoints** provide a more secure, cost-effective, and efficient way to access AWS services like S3 without exposing resources to the public internet.
 
-### Visual Representation
-![View the Image Here](#) <!-- Replace '#' with the URL to the image -->
+ <!-- Replace '#' with the URL to the image -->
 
 For further details, refer to the [AWS VPC Endpoints Documentation](https://docs.aws.amazon.com/vpc/latest/userguide/vpc-endpoints.html).
 
